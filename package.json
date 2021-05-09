@@ -1,10 +1,10 @@
 {
-  "name": "pomodoro_app",
+  "name": "productivity_app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development  --watch ./pomodoro/frontend/src/index.js --output-path ./pomodoro/frontend/static/frontend",
-    "build": "webpack --mode production ./pomodoro/frontend/src/index.js --output-path ./pomodoro/frontend/static/frontend"
+    "dev": "webpack --mode development  --watch ./productivity/frontend/src/index.js --output-path ./productivity/frontend/static/frontend",
+    "build": "webpack --mode production ./productivity/frontend/src/index.js --output-path ./productivity/frontend/static/frontend"
   },
   "keywords": [],
   "author": "",
